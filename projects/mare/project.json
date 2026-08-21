@@ -1,0 +1,26 @@
+{
+  "slug": "mare",
+  "name": "MARÉ",
+  "category": "web",
+  "shortDescription": "Site imersivo para cozinha autoral costeira.",
+  "description": "MARÉ é uma casa de cozinha autoral à beira-mar, com um único menu que muda duas vezes por dia. O site é uma experiência editorial: loader com progresso real, hero 360vh com scroll-scrub de vídeo, ingredientes com preview sticky e narrativa de ofício. Direção de arte premium com paleta cream/ink/oxblood e vídeos gerados por IA (PixVerse + Veo).",
+  "thumbnail": "mockups/mockup-desktop.webp",
+  "video": "mockups/mockup-desktop-video.mp4",
+  "gallery": [
+    "mockups/mockup-phone.webp",
+    "mockups/dual-mockup.webp",
+    "images/dish-01.webp",
+    "images/table-sunset.webp",
+    "images/chef-portrait.webp"
+  ],
+  "mockups": [
+    "mockups/mockup-desktop.webp",
+    "mockups/mockup-phone.webp",
+    "mockups/dual-mockup.webp"
+  ],
+  "year": 2026,
+  "tags": ["restaurante", "editorial", "premium"],
+  "stack": ["Next.js", "GSAP", "Lenis", "Tailwind"],
+  "deliverables": ["site imersivo", "direção de arte", "scroll-scrub", "vídeo hero"],
+  "liveUrl": ""
+}

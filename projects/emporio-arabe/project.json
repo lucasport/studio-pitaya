@@ -1,0 +1,20 @@
+{
+  "slug": "emporio-arabe",
+  "name": "Empório Árabe",
+  "category": "cardapio",
+  "shortDescription": "Cardápios e identidade para empório gastronômico árabe.",
+  "description": "Identidade visual e cardápios (digital e impresso) para o Empório Árabe: gastronomia de tradição com apresentação premium. Aplicações de marca em materiais de divulgação e criativos de campanha.",
+  "thumbnail": "mockups/identidade-aplicada.webp",
+  "gallery": [
+    "mockups/criativo-campanha.webp"
+  ],
+  "mockups": [
+    "mockups/identidade-aplicada.webp",
+    "mockups/criativo-campanha.webp"
+  ],
+  "year": 2026,
+  "tags": ["gastronomia", "cardápio", "identidade"],
+  "stack": [],
+  "deliverables": ["cardápio digital", "impresso", "identidade visual", "criativos"],
+  "liveUrl": ""
+}

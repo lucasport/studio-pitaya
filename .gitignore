@@ -1,0 +1,7 @@
+# OS / editor
+Thumbs.db
+.DS_Store
+
+# segredos nunca devem existir aqui, mas por segurança
+*.env
+.env*

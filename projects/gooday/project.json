@@ -1,0 +1,23 @@
+{
+  "slug": "gooday",
+  "name": "GOODAY",
+  "category": "marketing",
+  "shortDescription": "Identidade, app e conteúdo social para marca lifestyle.",
+  "description": "GOODAY é uma marca lifestyle com presença em app e redes sociais: splash screen de aplicativo, mockup institucional e linha editorial de feed. Sistema visual solar e direto, pensado para engajamento diário.",
+  "thumbnail": "mockups/mockup.webp",
+  "video": "video/gooday-app.mp4",
+  "gallery": [
+    "mockups/splash-screen.webp",
+    "mockups/feed.webp"
+  ],
+  "mockups": [
+    "mockups/mockup.webp",
+    "mockups/splash-screen.webp",
+    "mockups/feed.webp"
+  ],
+  "year": 2023,
+  "tags": ["lifestyle", "social", "app"],
+  "stack": [],
+  "deliverables": ["splash screen", "social media", "feed editorial", "vídeo demo"],
+  "liveUrl": ""
+}

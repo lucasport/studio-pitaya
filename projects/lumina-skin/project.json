@@ -1,0 +1,24 @@
+{
+  "slug": "lumina-skin",
+  "name": "LUMINA Skin",
+  "category": "branding",
+  "shortDescription": "Landing premium para cuidados com a pele.",
+  "description": "Landing page premium para uma marca de cuidados com a pele: hero com scroll-scrub em spritesheet, identidade luminosa e foco em conversão (15 containers de conversão). Dermocosmético premium acessível — ciência dermatológica + sensorialidade de luxo.",
+  "thumbnail": "mockups/desktop-mockup.webp",
+  "gallery": [
+    "mockups/phone-mockup.webp",
+    "mockups/dual-mockup.webp",
+    "images/ingredients.webp",
+    "images/texture.webp"
+  ],
+  "mockups": [
+    "mockups/desktop-mockup.webp",
+    "mockups/phone-mockup.webp",
+    "mockups/dual-mockup.webp"
+  ],
+  "year": 2026,
+  "tags": ["beauty", "landing", "conversão"],
+  "stack": ["Next.js", "GSAP", "Lenis", "Tailwind"],
+  "deliverables": ["landing page", "identidade visual", "scroll-scrub spritesheet"],
+  "liveUrl": ""
+}
