@@ -11,12 +11,15 @@
     "mockups/dual-mockup.webp",
     "images/dish-01.webp",
     "images/table-sunset.webp",
-    "images/chef-portrait.webp"
+    "images/chef-portrait.webp",
+    "mockups/mockup-hero-opt.mp4"
   ],
   "mockups": [
     "mockups/mockup-desktop.webp",
     "mockups/mockup-phone.webp",
-    "mockups/dual-mockup.webp"
+    "mockups/dual-mockup.webp",
+    "mockups/mockup-hero-opt.mp4",
+    "mockups/logo.webp"
   ],
   "year": 2026,
   "tags": ["restaurante", "editorial", "premium"],

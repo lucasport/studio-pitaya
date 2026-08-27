@@ -1,0 +1,26 @@
+{
+  "slug": "studio-pitaya",
+  "name": "Studio Pitaya",
+  "category": "branding",
+  "shortDescription": "Identidade visual e design system do próprio estúdio.",
+  "description": "Projeto de identidade visual completa do Studio Pitaya: logo system (principal, negativo, 8 variações cromáticas, pattern), design system com tokens, componentes, acessibilidade e motion. Aplicações em papelaria, sinalização, digital e brand guidelines.",
+  "thumbnail": "mockups/design-system-pitaya-figma.webp",
+  "gallery": [
+    "mockups/visit-card-mockup.webp",
+    "mockups/mockup-folder-case-pitaya.webp",
+    "mockups/logo-wall-case-pitaya.webp",
+    "mockups/company-presentation.webp"
+  ],
+  "mockups": [
+    "mockups/design-system-pitaya-figma.webp",
+    "mockups/visit-card-mockup.webp",
+    "mockups/mockup-folder-case-pitaya.webp",
+    "mockups/logo-wall-case-pitaya.webp",
+    "mockups/company-presentation.webp"
+  ],
+  "year": 2026,
+  "tags": ["studio", "branding", "design-system"],
+  "stack": ["Figma", "Affinity Designer"],
+  "deliverables": ["logo system", "design system", "papelaria", "sinalização", "brand guidelines"],
+  "liveUrl": ""
+}

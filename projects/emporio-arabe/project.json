@@ -6,11 +6,14 @@
   "description": "Identidade visual e cardápios (digital e impresso) para o Empório Árabe: gastronomia de tradição com apresentação premium. Aplicações de marca em materiais de divulgação e criativos de campanha.",
   "thumbnail": "mockups/identidade-aplicada.webp",
   "gallery": [
-    "mockups/criativo-campanha.webp"
+    "mockups/identidade-aplicada.webp",
+    "mockups/mockup-cardapio-html-emparabe.webp",
+    "mockups/mockup-geleia.webp"
   ],
   "mockups": [
     "mockups/identidade-aplicada.webp",
-    "mockups/criativo-campanha.webp"
+    "mockups/mockup-cardapio-html-emparabe.webp",
+    "mockups/mockup-geleia.webp"
   ],
   "year": 2026,
   "tags": ["gastronomia", "cardápio", "identidade"],

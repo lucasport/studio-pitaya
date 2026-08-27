@@ -1,11 +1,14 @@
 {
   "repo": "studio-pitaya",
-  "updated": "2026-08-21",
+  "updated": "2026-08-26",
   "projects": [
     "mare",
     "lumina-skin",
     "quintal-de-minas",
     "emporio-arabe",
-    "gooday"
+    "gooday",
+    "studio-pitaya",
+    "websites",
+    "enginnering"
   ]
 }

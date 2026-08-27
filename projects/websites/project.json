@@ -1,0 +1,26 @@
+{
+  "slug": "websites",
+  "name": "Websites & Landing Pages",
+  "category": "web",
+  "shortDescription": "Coleção de landing pages e sites desenvolvidos pelo Studio Pitaya.",
+  "description": "Portfólio de websites e landing pages: Massanostra, IA Utomação, DulceVista, PTS. Sites com foco em performance, SEO, acessibilidade e design editorial premium. Stack: React/Next.js, GSAP, Lenis, Tailwind.",
+  "thumbnail": "mockups/mockup-massanostra-case-laptop.webp",
+  "gallery": [
+    "mockups/mockup-iautomaion-case-laptop.webp",
+    "mockups/mockup-dulcevista-case-laptop.webp",
+    "mockups/laptop-mockup.webp",
+    "mockups/pts.webp"
+  ],
+  "mockups": [
+    "mockups/mockup-massanostra-case-laptop.webp",
+    "mockups/mockup-iautomaion-case-laptop.webp",
+    "mockups/mockup-dulcevista-case-laptop.webp",
+    "mockups/laptop-mockup.webp",
+    "mockups/pts.webp"
+  ],
+  "year": 2026,
+  "tags": ["web", "landing", "portfolio"],
+  "stack": ["React", "Next.js", "GSAP", "Lenis", "Tailwind"],
+  "deliverables": ["landing pages", "sites institucionais", "SEO", "performance"],
+  "liveUrl": ""
+}

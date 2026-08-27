@@ -1,0 +1,28 @@
+{
+  "slug": "enginnering",
+  "name": "Projetos de Engenharia & Arquitetura",
+  "category": "web",
+  "shortDescription": "Projetos técnicos de engenharia civil e arquitetura — documentação e visualização.",
+  "description": "Projetos de engenharia e arquitetura: Igreja Jesus Bom Pastor (Mogi das Cruzes), pizzaria, templates ABNT. Documentação técnica, plantas, cortes, detalhes construtivos e visualizações 3D para aprovação e execução.",
+  "thumbnail": "mockups/imac-on-the-desk-mockup.webp",
+  "gallery": [
+    "mockups/macbook-air-on-the-table.webp",
+    "mockups/minimalistic-imac-desktop-mockup.webp",
+    "mockups/minimalistic-laptop-and-tablet-mockup.webp",
+    "mockups/tablet-mockup-pizzeria-background.webp",
+    "mockups/cosy-interior-laptop-mockup.webp"
+  ],
+  "mockups": [
+    "mockups/imac-on-the-desk-mockup.webp",
+    "mockups/macbook-air-on-the-table.webp",
+    "mockups/minimalistic-imac-desktop-mockup.webp",
+    "mockups/minimalistic-laptop-and-tablet-mockup.webp",
+    "mockups/tablet-mockup-pizzeria-background.webp",
+    "mockups/cosy-interior-laptop-mockup.webp"
+  ],
+  "year": 2026,
+  "tags": ["engenharia", "arquitetura", "documentação técnica"],
+  "stack": ["AutoCAD", "Revit", "SketchUp"],
+  "deliverables": ["projetos executivos", "plantas", "cortes", "detalhes", "visualizações 3D"],
+  "liveUrl": ""
+}

@@ -5,10 +5,13 @@
   "shortDescription": "Marca completa com site e aplicações físicas — do outdoor à embalagem.",
   "description": "Projeto de identidade completa para o Quintal de Minas: site, sinalização (mural e outdoor), banner e embalagem. Uma marca que vive igualmente no digital e no espaço físico, com linguagem artesanal mineira aplicada de ponta a ponta.",
   "thumbnail": "mockups/quintal-laptop.webp",
+  "video": "mockups/mockup-hero.mp4",
   "gallery": [
     "mockups/quintal-phone.webp",
     "mockups/quintal-billboard.webp",
-    "mockups/quintal-embalagem.webp"
+    "mockups/quintal-embalagem.webp",
+    "mockups/mockup-case-quintal-produto.webp",
+    "mockups/mockup-hero.mp4"
   ],
   "mockups": [
     "mockups/quintal-laptop.webp",
@@ -16,7 +19,9 @@
     "mockups/quintal-billboard.webp",
     "mockups/quintal-murral.webp",
     "mockups/quintal-banner.webp",
-    "mockups/quintal-embalagem.webp"
+    "mockups/quintal-embalagem.webp",
+    "mockups/mockup-case-quintal-produto.webp",
+    "mockups/mockup-hero.mp4"
   ],
   "year": 2026,
   "tags": ["café", "branding", "aplicações"],
