@@ -7,7 +7,6 @@
   "thumbnail": "mockups/mockup.webp",
   "video": "video/mockup-app.mp4",
   "gallery": [
-    "mockups/splash-screen.webp",
     "mockups/mockup.webp",
     "mockups/mockup-groups.webp",
     "mockups/mockup-food.webp",
@@ -17,7 +16,6 @@
   ],
   "mockups": [
     "mockups/mockup.webp",
-    "mockups/splash-screen.webp",
     "mockups/mockup-groups.webp",
     "mockups/mockup-food.webp",
     "mockups/mockup-feed.webp",
